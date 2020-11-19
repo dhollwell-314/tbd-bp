@@ -31,7 +31,7 @@ instagram_username: tutordscholars
 github_username: theTutorB
 
 # Build settings
-theme: minima
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
