@@ -29,7 +29,7 @@ instagram_username: caesar_hollwell
 github_username: dhollwell-314
 
 # Build settings
-theme: minima
+theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
